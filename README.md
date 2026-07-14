@@ -196,18 +196,7 @@ The analysis revealed several important business insights:
 
 ---
 
- ---
-
-## 🚀 Future Enhancements
-
-- Deploy the dashboard to Power BI Service.
-- Integrate SQL for advanced analytical queries.
-- Build an automated ETL pipeline using Azure Data Factory.
-- Store processed data in Azure SQL Database.
-- Develop a machine learning model for churn prediction.
-- Schedule automatic dashboard refreshes.
-
----
+ 
 
 ## 🚀 Future Enhancements
 
