@@ -175,10 +175,6 @@ An interactive Power BI dashboard was developed using the final processed datase
 - Customer Value Segmentation
 - Interactive Filters & Slicers
 
-> **Dashboard Preview**
-
-![image]()
-
 
 ---
 
